@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="uk">
+    <head>
+        <title>HTML Резюме</title>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul></ul>
+                <li>
+                    <a href="../index.html">Link to <index class="html"></index></a>
+                </li>
+                <img width="250" src="./Lesson4/images/48976871_372396206856586_6387622491010891776_n.jpg" alt="Selfi">
+                </li>
+                <li>
+                    <img width="250" src="./Lesson4/images/63425663_466229237473282_5580274768004775936_n.jpg" alt="Selfi1">
+                </li>
+                <li>
+                    <img width="250" src="./Lesson4/images/81179340_600802877349250_3180782775745642496_n.jpg" alt="Selfi2">
+                </li>  
+            </nav>
+        </header>
+    </body>
+</html>
